@@ -1,0 +1,19 @@
+.videos{
+  width: 50%;
+  height: 50%;
+  border: 3px double navy;
+}
+
+.video-content{
+  margin: auto;
+  width: 50%;
+  height: 50%;
+  padding-top: 10%;
+}
+.background-video{
+  width: 100%;
+  height: 50%;
+}
+.Bg-videos{
+  width: max(10vw,150px);
+}
